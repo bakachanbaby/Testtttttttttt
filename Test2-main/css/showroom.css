@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    overflow-x: hidden;
+    position: relative;
+    background-color: var(--main-bg-color);
+    overflow-x: hidden;
+}
+h4, p, h1{ 
+    text-align: center;
+    padding: 2px;
+}
+.innerIntro{
+    display: inline-block; 
+}
+.sectionContentStore{
+    display: flex;
+    width: 500px;
+    margin: auto;
+    padding: 5px;
+}
