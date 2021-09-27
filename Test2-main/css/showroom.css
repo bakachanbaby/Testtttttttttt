@@ -25,3 +25,15 @@ h4, p, h1{
     margin: auto;
     padding: 5px;
 }
+.innerIntro{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.item-storeIntro a img{
+    max-width: 300px;
+    max-height: 300px;
+}
+.title-storeIntro{
+    position: absolute;
+}
